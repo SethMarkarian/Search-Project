@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=SearchProject
+comment1.params=
+comment1.target=void\ tester()
+comment1.text=\n\ Call\ this\ to\ test\ your\ methods\ for\ correctness.\n
+comment2.params=
+comment2.target=void\ timer()
+comment2.text=\n\ Call\ this\ to\ time\ your\ methods.\ You\ should\ find\ that\ binary\ search\ is\ faster\ than\ linear\n\ search,\ especially\ for\ large\ arrays.\n\ \n\ We\ can\ use\ the\ same\ methods\ because\ Integer\ implements\ Comparable<Integer>.\n
+comment3.params=a\ target
+comment3.target=int\ linearSearch(java.lang.Comparable[],\ java.lang.Comparable)
+comment3.text=\n\ Complete\ this\ --\ implements\ Linear\ Search,\ left\ to\ right.\n
+comment4.params=a\ target
+comment4.target=int\ binarySearch(java.lang.Comparable[],\ java.lang.Comparable)
+comment4.text=\n\ Complete\ this\ --\ implements\ Binary\ Search.\n
+comment5.params=n
+comment5.target=java.lang.Integer[]\ randomArray(int)
+comment5.text=\n\ Returns\ a\ sorted\ array\ of\ n\ random\ Integers.\n
+numComments=6

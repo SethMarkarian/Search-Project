@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Fraction
+comment0.text=\n\ Write\ a\ description\ of\ class\ Fraction\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=n\ d
+comment1.target=Fraction(int,\ int)
+comment2.params=
+comment2.target=int\ getN()
+comment3.params=
+comment3.target=int\ getD()
+comment4.params=other
+comment4.target=int\ compareTo(Fraction)
+comment5.params=
+comment5.target=void\ simplify()
+numComments=6
